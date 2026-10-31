@@ -1,6 +1,6 @@
 ### Hi, I'm Scott 👋
 
-GTM Engineer. I build tools that help small teams find the right customers and write to them like a person.
+GTM Engineer. Building tools that make outreach meaningful and relevant, and bring the human touch back to conversations.
 
 ---
 
