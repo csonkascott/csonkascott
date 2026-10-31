@@ -1,6 +1,6 @@
 ### Hi, I'm Scott 👋
 
-GTM Engineer. Building tools that make outreach meaningful and relevant, and bring the human touch back to conversations.
+GTM Engineer. Building outreach tools that do the research, show their sources, and leave the sending to a person.
 
 ---
 
