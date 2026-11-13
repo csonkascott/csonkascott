@@ -4,7 +4,7 @@ GTM Engineer. Building outreach tools that do the research, show their sources, 
 
 ---
 
-## Kindred
+## Orblo
 
 **Your next good customer, with the reasons attached.**
 
